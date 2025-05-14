@@ -1,0 +1,33 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.pyc
+*.pkl
+
+# Environments
+.env
+venv/
+env/
+*.env
+
+# IDEs/editors
+.vscode/
+.idea/
+*.swp
+
+# Byte-compiled and cache
+*.log
+*.sqlite3
+
+# Docker
+*.log
+*.pid
+
+# Testing
+.coverage
+htmlcov/
+
+# Pytest cache
+.pytest_cache/
