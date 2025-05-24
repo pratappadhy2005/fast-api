@@ -29,16 +29,6 @@
     "bmi": 17.58,
     "verdict": "Underweight"
   },
-  "P004": {
-    "name": "Arjun Verma",
-    "city": "Bangalore",
-    "age": 40,
-    "gender": "male",
-    "height": 1.8,
-    "weight": 95,
-    "bmi": 29.32,
-    "verdict": "Overweight"
-  },
   "P005": {
     "name": "Neha Sinha",
     "city": "Kolkata",
