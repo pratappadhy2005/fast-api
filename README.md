@@ -20,5 +20,5 @@ A blazing-fast and lightweight RESTful API built with **FastAPI** and **Python 3
 
 ### 1. Clone the Repo
 ```bash
-git clone https://github.com/your-username/fastapi-sample.git
-cd fastapi-sample
+git clone git@github.com:pratappadhy2005/fast-api.git
+cd fast-api
